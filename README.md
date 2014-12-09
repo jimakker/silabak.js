@@ -42,3 +42,4 @@ var silabak = S('aztertu testu hau, mesedez')
   }
 ```
   
+JavaScript hutsa erabiltzen du, nabigatzaileetan erabili daiteke `browserify` bezelako erreminten bidez, edo kodea hartu eta zure kodean erabili. 
