@@ -1,0 +1,25 @@
+{
+  "name": "silabak.js",
+  "version": "1.0.0",
+  "description": "Euskarazko testuen silabak zenbatzen dituen erreminta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jimakker/silabak.git"
+  },
+  "keywords": [
+    "silabak",
+    "euskara",
+    "basque",
+    "syllable"
+  ],
+  "author": "@jimakker",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/jimakker/silabak/issues"
+  },
+  "homepage": "https://github.com/jimakker/silabak"
+}
