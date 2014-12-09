@@ -3,6 +3,8 @@ silabak.js
 
 Euskarazko testuen silabak zenbatzen dituen erreminta
 
+2014eko Durangoko Azokan Kabi@ gunean aurkeztutako "Ingurune Aldagaiak" performantzerako sortua izan zen. http://www.durangokoazoka.com/eu/component/azoka/egitaraua/322
+
 Metodoa
 -------
 
@@ -42,4 +44,4 @@ var silabak = S('aztertu testu hau, mesedez')
   }
 ```
   
-JavaScript hutsa erabiltzen du, nabigatzaileetan erabili daiteke `browserify` bezelako erreminten bidez, edo kodea hartu eta zure kodean erabili. 
+JavaScript hutsa erabiltzen du, nabigatzaileetan erabili daiteke `browserify` bezelako erreminten bidez, edo kodea hartu eta zure kodean erabiliz. 
