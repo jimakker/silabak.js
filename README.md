@@ -24,8 +24,8 @@ Martxan jarri
 
 ### Erabili
 ```js  
-var S = require('silabakjs')
-var silabak = S('aztertu testu hau, mesedez')
+var S = require('silabak.js')
+var silabak = S('Aztertu testu hau, mesedez')
 ```
 `silabak` objektua hauxe izango litzateke kasu hontan:
 ```js
