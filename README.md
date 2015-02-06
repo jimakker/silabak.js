@@ -25,7 +25,7 @@ Martxan jarri
 ### Erabili
 ```js  
 var S = require('silabak.js')
-var silabak = S('Aztertu testu hau, mesedez')
+var silabak = S('Aztertu testu hau, mesedez.')
 ```
 `silabak` objektua hauxe izango litzateke kasu hontan:
 ```js
@@ -37,7 +37,7 @@ var silabak = S('Aztertu testu hau, mesedez')
      serializatua: 'VC1CVC1CV2# CVC1CV2# CV2# CV2CV2CVC1#' 
     },
     silabak: { 
-      kantitatea: 9, 
+      guztira: 9, 
       itxiak: 4, 
       irekiak: 5 
     } 

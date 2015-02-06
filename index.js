@@ -56,7 +56,7 @@ module.exports = function(testua){
 
 	this.zenbatu = function(testuSerializatua){
 		return {
-			kantitatea: testuSerializatua.replace(/[^0-9]/g,"").length,
+			guztira: testuSerializatua.replace(/[^0-9]/g,"").length,
 			itxiak: testuSerializatua.replace(/[^1]/g,"").length,
 			irekiak: testuSerializatua.replace(/[^2]/g,"").length
 		}
